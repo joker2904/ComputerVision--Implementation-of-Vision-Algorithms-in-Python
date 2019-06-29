@@ -1,9 +1,4 @@
 
-Partners :
-
-Manzil Roy
-Dhananjay Bhandiwad
-
 Notes :
 
 For task1, we have implemented using numpy broadcasting ( for the bonus 1 marks )
